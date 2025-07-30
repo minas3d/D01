@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp6", "ConsoleApp6\ConsoleApp6.csproj", "{B88D2FEF-812C-47C0-B882-7619386BFC4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "araay", "araay\araay.csproj", "{1E14C75E-6CED-494C-B3BA-93C443EF395B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B88D2FEF-812C-47C0-B882-7619386BFC4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B88D2FEF-812C-47C0-B882-7619386BFC4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B88D2FEF-812C-47C0-B882-7619386BFC4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B88D2FEF-812C-47C0-B882-7619386BFC4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E14C75E-6CED-494C-B3BA-93C443EF395B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E14C75E-6CED-494C-B3BA-93C443EF395B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E14C75E-6CED-494C-B3BA-93C443EF395B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E14C75E-6CED-494C-B3BA-93C443EF395B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C2756ED-8758-4AFE-BDF4-141F9D86515E}
+	EndGlobalSection
+EndGlobal
